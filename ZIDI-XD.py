@@ -13,4 +13,4 @@ elif MANI=="64bit":
 
 	
 
-    __import__("ZIDI_MALIK")
+    __import__("Sohail44")
